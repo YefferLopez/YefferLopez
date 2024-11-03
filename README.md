@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! Soy Yeffer Lopez 👋 
 
-<!--
-**YefferLopez/YefferLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Front-End en Progreso 🚀
 
-Here are some ideas to get you started:
+Soy un gran fan de la tecnología con un gran interés en el desarrollo web, especialmente en el área de front-end. Me esfuerzo
+por aprender cada día y mejorar mis habilidades a través de proyectos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Sobre mí
+
+- 🌱 Actualmente, estoy aprendiendo HTML, CSS y JavaScript.
+- 🎯 Mi objetivo es convertirme en un desarrollador front-end experto.
+- 💼 Me apasiona la programación y la tecnología en general.
+
+## 💻 Habilidades
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+## 🌐 Encuéntrame en
+
+- [LinkedIn](https://www.linkedin.com/in/yeffer-l%C3%B3pez-a27278328/)
+- 

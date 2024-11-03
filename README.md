@@ -20,4 +20,3 @@ por aprender cada día y mejorar mis habilidades a través de proyectos.
 ## 🌐 Encuéntrame en
 
 - [LinkedIn](https://www.linkedin.com/in/yeffer-l%C3%B3pez-a27278328/)
-- 
